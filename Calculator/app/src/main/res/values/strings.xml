@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="todo" />
+    <string name="calculator">Calculator</string>
+    <string name="todo2">TODO</string>
+    <string name="by">By</string>
+    <string name="pradyunya_chunchwar">Pradyunya Chunchwar</string>
+    <string name="_55_45">55=45</string>
+    <string name="_1">1</string>
+    <string name="_2">2</string>
+    <string name="equal">=</string>
+    <string name="dot">.</string>
+    <string name="_0">0</string>
+    <string name="a">A</string>
+    <string name="div">/</string>
+    <string name="p">%</string>
+    <string name="plus" />
+    <string name="c">C</string>
+    <string name="mult">*</string>
+    <string name="et">8</string>
+    <string name="nine">9</string>
+    <string name="_7">7</string>
+    <string name="mo">%</string>
+    />
+</resources>
